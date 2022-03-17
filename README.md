@@ -64,7 +64,7 @@ plt.show()
 
 ## Neuralizing the model
 
-The decision function for a cluster can be recoved as
+The decision function for a cluster can be recovered as
 ![png](figures/formulae_1.png)
 This function contrasts distance to cluster *c* against distance to the nearest competitor.
 
